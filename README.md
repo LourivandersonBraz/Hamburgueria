@@ -1,2 +1,2 @@
 # Hamburgueria
- Primeiro repositório 
+ Início do template para Hamburgueria local
