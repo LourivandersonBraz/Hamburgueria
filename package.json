@@ -1,0 +1,21 @@
+{
+  "name": "hamburgueria",
+  "version": "1.0.0",
+  "description": "Início do template para Hamburgueria local.\r  Site será criado em fases de implementação.\r Usar uma Hamburgueria local para início dos testes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.15",
+    "@tailwindcss/postcss": "^4.0.15",
+    "@tailwindcss/vite": "^4.0.15",
+    "postcss": "^8.5.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.15"
+  }
+}
